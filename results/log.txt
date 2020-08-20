@@ -1,0 +1,397 @@
+whed_1  | > web-crawler@1.0.0 start /home/node/app
+whed_1  | > ts-node -r ./src/main.ts
+whed_1  | 
+whed_1  |  LOG  Processing Afghanistan
+whed_1  |  RESULT  Afghanistan total result 35
+whed_1  |  LOG  Processing Albania
+whed_1  |  RESULT  Albania total result 22
+whed_1  |  LOG  Processing Algeria
+whed_1  |  RESULT  Algeria total result 92
+whed_1  |  LOG  Processing Andorra
+whed_1  |  RESULT  Andorra total result 2
+whed_1  |  LOG  Processing Angola
+whed_1  |  RESULT  Angola total result 44
+whed_1  |  LOG  Processing Argentina
+whed_1  |  RESULT  Argentina total result 117
+whed_1  |  LOG  Processing Armenia
+whed_1  |  RESULT  Armenia total result 58
+whed_1  |  LOG  Processing Aruba
+whed_1  |  RESULT  Aruba total result 2
+whed_1  |  LOG  Processing Australia
+whed_1  |  RESULT  Australia total result 94
+whed_1  |  LOG  Processing Austria
+whed_1  |  RESULT  Austria total result 69
+whed_1  |  LOG  Processing Azerbaijan
+whed_1  |  RESULT  Azerbaijan total result 45
+whed_1  |  LOG  Processing Bahamas
+whed_1  |  RESULT  Bahamas total result 1
+whed_1  |  LOG  Processing Bahrain
+whed_1  |  RESULT  Bahrain total result 13
+whed_1  |  LOG  Processing Bangladesh
+whed_1  |  RESULT  Bangladesh total result 120
+whed_1  |  LOG  Processing Barbados
+whed_1  |  RESULT  Barbados total result 1
+whed_1  |  LOG  Processing Belarus
+whed_1  |  RESULT  Belarus total result 44
+whed_1  |  LOG  Processing Belize
+whed_1  |  RESULT  Belize total result 2
+whed_1  |  LOG  Processing Benin
+whed_1  |  RESULT  Benin total result 32
+whed_1  |  LOG  Processing Bhutan
+whed_1  |  RESULT  Bhutan total result 3
+whed_1  |  LOG  Processing Bolivia (Plurinational State of)
+whed_1  |  RESULT  Bolivia (Plurinational State of) total result 54
+whed_1  |  LOG  Processing Bosnia and Herzegovina
+whed_1  |  RESULT  Bosnia and Herzegovina total result 35
+whed_1  |  LOG  Processing Botswana
+whed_1  |  RESULT  Botswana total result 14
+whed_1  |  LOG  Processing Brazil
+whed_1  |  RESULT  Brazil total result 1043
+whed_1  |  LOG  Processing Brunei Darussalam
+whed_1  |  RESULT  Brunei Darussalam total result 4
+whed_1  |  LOG  Processing Bulgaria
+whed_1  |  RESULT  Bulgaria total result 50
+whed_1  |  LOG  Processing Burkina Faso
+whed_1  |  RESULT  Burkina Faso total result 48
+whed_1  |  LOG  Processing Burundi
+whed_1  |  RESULT  Burundi total result 10
+whed_1  |  LOG  Processing Cabo Verde
+whed_1  |  RESULT  Cabo Verde total result 8
+whed_1  |  LOG  Processing Cambodia
+whed_1  |  RESULT  Cambodia total result 45
+whed_1  |  LOG  Processing Cameroon
+whed_1  |  RESULT  Cameroon total result 42
+whed_1  |  LOG  Processing Central African Republic
+whed_1  |  RESULT  Central African Republic total result 3
+whed_1  |  LOG  Processing Chad
+whed_1  |  RESULT  Chad total result 10
+whed_1  |  LOG  Processing Chile
+whed_1  |  RESULT  Chile total result 64
+whed_1  |  LOG  Processing China
+whed_1  |  RESULT  China total result 1060
+whed_1  |  LOG  Processing China - Hong Kong SAR
+whed_1  |  RESULT  China - Hong Kong SAR total result 14
+whed_1  |  LOG  Processing China - Macao SAR
+whed_1  |  RESULT  China - Macao SAR total result 9
+whed_1  |  LOG  Processing China - Taiwan
+whed_1  |  RESULT  China - Taiwan total result 142
+whed_1  |  LOG  Processing Colombia
+whed_1  |  RESULT  Colombia total result 247
+whed_1  |  LOG  Processing Comoros
+whed_1  |  RESULT  Comoros total result 1
+whed_1  |  LOG  Processing Congo
+whed_1  |  RESULT  Congo total result 2
+whed_1  |  LOG  Processing Congo (Democratic Republic)
+whed_1  |  RESULT  Congo (Democratic Republic) total result 51
+whed_1  |  LOG  Processing Costa Rica
+whed_1  |  RESULT  Costa Rica total result 57
+whed_1  |  LOG  Processing Côte d'Ivoire
+whed_1  |  RESULT  Côte d'Ivoire total result 105
+whed_1  |  LOG  Processing Croatia
+whed_1  |  RESULT  Croatia total result 38
+whed_1  |  LOG  Processing Cuba
+whed_1  |  RESULT  Cuba total result 51
+whed_1  |  LOG  Processing Curaçao
+whed_1  |  RESULT  Curaçao total result 1
+whed_1  |  LOG  Processing Cyprus
+whed_1  |  RESULT  Cyprus total result 35
+whed_1  |  LOG  Processing Czech Republic
+whed_1  |  RESULT  Czech Republic total result 45
+whed_1  |  LOG  Processing Denmark
+whed_1  |  RESULT  Denmark total result 33
+whed_1  |  LOG  Processing Djibouti
+whed_1  |  RESULT  Djibouti total result 1
+whed_1  |  LOG  Processing Dominican Republic
+whed_1  |  RESULT  Dominican Republic total result 38
+whed_1  |  LOG  Processing Ecuador
+whed_1  |  RESULT  Ecuador total result 65
+whed_1  |  LOG  Processing Egypt
+whed_1  |  RESULT  Egypt total result 55
+whed_1  |  LOG  Processing El Salvador
+whed_1  |  RESULT  El Salvador total result 30
+whed_1  |  LOG  Processing Equatorial Guinea
+whed_1  |  RESULT  Equatorial Guinea total result 1
+whed_1  |  LOG  Processing Eritrea
+whed_1  |  RESULT  Eritrea total result 7
+whed_1  |  LOG  Processing Estonia
+whed_1  |  RESULT  Estonia total result 10
+whed_1  |  LOG  Processing Eswatini
+whed_1  |  RESULT  Eswatini total result 4
+whed_1  |  LOG  Processing Ethiopia
+whed_1  |  RESULT  Ethiopia total result 67
+whed_1  |  LOG  Processing Faroe Islands
+whed_1  |  RESULT  Faroe Islands total result 1
+whed_1  |  LOG  Processing Fiji
+whed_1  |  RESULT  Fiji total result 5
+whed_1  |  LOG  Processing Finland
+whed_1  |  RESULT  Finland total result 34
+whed_1  |  LOG  Processing France
+whed_1  |  RESULT  France total result 400
+whed_1  |  LOG  Processing France - French Guyana
+whed_1  |  RESULT  France - French Guyana total result 1
+whed_1  |  LOG  Processing France - French Polynesia
+whed_1  |  RESULT  France - French Polynesia total result 1
+whed_1  |  LOG  Processing France - Guadeloupe
+whed_1  |  RESULT  France - Guadeloupe total result 0
+whed_1  |  LOG  Processing France - Martinique
+whed_1  |  RESULT  France - Martinique total result 2
+whed_1  |  LOG  Processing France - New Caledonia
+whed_1  |  RESULT  France - New Caledonia total result 1
+whed_1  |  LOG  Processing France - Reunion
+whed_1  |  RESULT  France - Reunion total result 2
+whed_1  |  LOG  Processing Gabon
+whed_1  |  RESULT  Gabon total result 17
+whed_1  |  LOG  Processing Gambia (The)
+whed_1  |  RESULT  Gambia (The) total result 1
+whed_1  |  LOG  Processing Georgia
+whed_1  |  RESULT  Georgia total result 48
+whed_1  |  LOG  Processing Germany
+whed_1  |  RESULT  Germany total result 359
+whed_1  |  LOG  Processing Ghana
+whed_1  |  RESULT  Ghana total result 76
+whed_1  |  LOG  Processing Greece
+whed_1  |  RESULT  Greece total result 26
+whed_1  |  LOG  Processing Grenada
+whed_1  |  RESULT  Grenada total result 1
+whed_1  |  LOG  Processing Guatemala
+whed_1  |  RESULT  Guatemala total result 59
+whed_1  |  LOG  Processing Guinea
+whed_1  |  RESULT  Guinea total result 1
+whed_1  |  LOG  Processing Guinea-Bissau
+whed_1  |  RESULT  Guinea-Bissau total result 7
+whed_1  |  LOG  Processing Guyana
+whed_1  |  RESULT  Guyana total result 1
+whed_1  |  LOG  Processing Haiti
+whed_1  |  RESULT  Haiti total result 14
+whed_1  |  LOG  Processing Holy See
+whed_1  |  RESULT  Holy See total result 19
+whed_1  |  LOG  Processing Honduras
+whed_1  |  RESULT  Honduras total result 18
+whed_1  |  LOG  Processing Hungary
+whed_1  |  RESULT  Hungary total result 38
+whed_1  |  LOG  Processing Iceland
+whed_1  |  RESULT  Iceland total result 7
+whed_1  |  LOG  Processing India
+whed_1  |  RESULT  India total result 809
+whed_1  |  LOG  Processing Indonesia
+whed_1  |  RESULT  Indonesia total result 1259
+whed_1  |  LOG  Processing Iran (Islamic Republic of)
+whed_1  |  RESULT  Iran (Islamic Republic of) total result 246
+whed_1  |  LOG  Processing Iraq
+whed_1  |  RESULT  Iraq total result 36
+whed_1  |  LOG  Processing Ireland
+whed_1  |  RESULT  Ireland total result 49
+whed_1  |  LOG  Processing Israel
+whed_1  |  RESULT  Israel total result 42
+whed_1  |  LOG  Processing Italy
+whed_1  |  RESULT  Italy total result 98
+whed_1  |  LOG  Processing Jamaica
+whed_1  |  RESULT  Jamaica total result 8
+whed_1  |  LOG  Processing Japan
+whed_1  |  RESULT  Japan total result 765
+whed_1  |  LOG  Processing Jordan
+whed_1  |  RESULT  Jordan total result 32
+whed_1  |  LOG  Processing Kazakhstan
+whed_1  |  RESULT  Kazakhstan total result 115
+whed_1  |  LOG  Processing Kenya
+whed_1  |  RESULT  Kenya total result 50
+whed_1  |  LOG  Processing Korea (Democratic People's Republic of)
+whed_1  |  RESULT  Korea (Democratic People's Republic of) total result 72
+whed_1  |  LOG  Processing Korea (Republic of)
+whed_1  |  RESULT  Korea (Republic of) total result 248
+whed_1  |  LOG  Processing Kuwait
+whed_1  |  RESULT  Kuwait total result 6
+whed_1  |  LOG  Processing Kyrgyzstan
+whed_1  |  RESULT  Kyrgyzstan total result 25
+whed_1  |  LOG  Processing Lao People's Democratic Republic
+whed_1  |  RESULT  Lao People's Democratic Republic total result 13
+whed_1  |  LOG  Processing Latvia
+whed_1  |  RESULT  Latvia total result 26
+whed_1  |  LOG  Processing Lebanon
+whed_1  |  RESULT  Lebanon total result 40
+whed_1  |  LOG  Processing Lesotho
+whed_1  |  RESULT  Lesotho total result 3
+whed_1  |  LOG  Processing Liberia
+whed_1  |  RESULT  Liberia total result 6
+whed_1  |  LOG  Processing Libya
+whed_1  |  RESULT  Libya total result 15
+whed_1  |  LOG  Processing Liechtenstein
+whed_1  |  RESULT  Liechtenstein total result 3
+whed_1  |  LOG  Processing Lithuania
+whed_1  |  RESULT  Lithuania total result 18
+whed_1  |  LOG  Processing Luxembourg
+whed_1  |  RESULT  Luxembourg total result 1
+whed_1  |  LOG  Processing Madagascar
+whed_1  |  RESULT  Madagascar total result 56
+whed_1  |  LOG  Processing Malawi
+whed_1  |  RESULT  Malawi total result 19
+whed_1  |  LOG  Processing Malaysia
+whed_1  |  RESULT  Malaysia total result 81
+whed_1  |  LOG  Processing Maldives
+whed_1  |  RESULT  Maldives total result 9
+whed_1  |  LOG  Processing Mali
+whed_1  |  RESULT  Mali total result 23
+whed_1  |  LOG  Processing Malta
+whed_1  |  RESULT  Malta total result 2
+whed_1  |  LOG  Processing Mauritania
+whed_1  |  RESULT  Mauritania total result 5
+whed_1  |  LOG  Processing Mauritius
+whed_1  |  RESULT  Mauritius total result 7
+whed_1  |  LOG  Processing Mexico
+whed_1  |  RESULT  Mexico total result 1642
+whed_1  |  LOG  Processing Moldova
+whed_1  |  RESULT  Moldova total result 25
+whed_1  |  LOG  Processing Monaco
+whed_1  |  RESULT  Monaco total result 2
+whed_1  |  LOG  Processing Mongolia
+whed_1  |  RESULT  Mongolia total result 52
+whed_1  |  LOG  Processing Montenegro
+whed_1  |  RESULT  Montenegro total result 8
+whed_1  |  LOG  Processing Morocco
+whed_1  |  RESULT  Morocco total result 157
+whed_1  |  LOG  Processing Mozambique
+whed_1  |  RESULT  Mozambique total result 40
+whed_1  |  LOG  Processing Myanmar
+whed_1  |  RESULT  Myanmar total result 99
+whed_1  |  LOG  Processing Namibia
+whed_1  |  RESULT  Namibia total result 4
+whed_1  |  LOG  Processing Nepal
+whed_1  |  RESULT  Nepal total result 12
+whed_1  |  LOG  Processing Netherlands
+whed_1  |  RESULT  Netherlands total result 70
+whed_1  |  LOG  Processing New Zealand
+whed_1  |  RESULT  New Zealand total result 29
+whed_1  |  LOG  Processing Nicaragua
+whed_1  |  RESULT  Nicaragua total result 52
+whed_1  |  LOG  Processing Niger
+whed_1  |  RESULT  Niger total result 11
+whed_1  |  LOG  Processing Nigeria
+whed_1  |  RESULT  Nigeria total result 125
+whed_1  |  LOG  Processing North Macedonia (Republic of)
+whed_1  |  RESULT  North Macedonia (Republic of) total result 20
+whed_1  |  LOG  Processing Norway
+whed_1  |  RESULT  Norway total result 32
+whed_1  |  LOG  Processing Oman
+whed_1  |  RESULT  Oman total result 53
+whed_1  |  LOG  Processing Pakistan
+whed_1  |  RESULT  Pakistan total result 153
+whed_1  |  LOG  Processing Palestine
+whed_1  |  RESULT  Palestine total result 27
+whed_1  |  LOG  Processing Panama
+whed_1  |  RESULT  Panama total result 26
+whed_1  |  LOG  Processing Papua New Guinea
+whed_1  |  RESULT  Papua New Guinea total result 9
+whed_1  |  LOG  Processing Paraguay
+whed_1  |  RESULT  Paraguay total result 67
+whed_1  |  LOG  Processing Peru
+whed_1  |  RESULT  Peru total result 140
+whed_1  |  LOG  Processing Philippines
+whed_1  |  RESULT  Philippines total result 1330
+whed_1  |  LOG  Processing Poland
+whed_1  |  RESULT  Poland total result 349
+whed_1  |  LOG  Processing Portugal
+whed_1  |  RESULT  Portugal total result 89
+whed_1  |  LOG  Processing Qatar
+whed_1  |  RESULT  Qatar total result 4
+whed_1  |  LOG  Processing Romania
+whed_1  |  RESULT  Romania total result 76
+whed_1  |  LOG  Processing Russian Federation
+whed_1  |  RESULT  Russian Federation total result 718
+whed_1  |  LOG  Processing Rwanda
+whed_1  |  RESULT  Rwanda total result 14
+whed_1  |  LOG  Processing Saint Kitts and Nevis
+whed_1  |  RESULT  Saint Kitts and Nevis total result 1
+whed_1  |  LOG  Processing Samoa
+whed_1  |  RESULT  Samoa total result 2
+whed_1  |  LOG  Processing San Marino
+whed_1  |  RESULT  San Marino total result 1
+whed_1  |  LOG  Processing Sao Tome and Principe
+whed_1  |  RESULT  Sao Tome and Principe total result 1
+whed_1  |  LOG  Processing Saudi Arabia
+whed_1  |  RESULT  Saudi Arabia total result 51
+whed_1  |  LOG  Processing Senegal
+whed_1  |  RESULT  Senegal total result 71
+whed_1  |  LOG  Processing Serbia
+whed_1  |  RESULT  Serbia total result 15
+whed_1  |  LOG  Processing Seychelles
+whed_1  |  RESULT  Seychelles total result 1
+whed_1  |  LOG  Processing Sierra Leone
+whed_1  |  RESULT  Sierra Leone total result 3
+whed_1  |  LOG  Processing Singapore
+whed_1  |  RESULT  Singapore total result 9
+whed_1  |  LOG  Processing Slovak Republic
+whed_1  |  RESULT  Slovak Republic total result 32
+whed_1  |  LOG  Processing Slovenia
+whed_1  |  RESULT  Slovenia total result 42
+whed_1  |  LOG  Processing Solomon Islands
+whed_1  |  RESULT  Solomon Islands total result 3
+whed_1  |  LOG  Processing Somalia
+whed_1  |  RESULT  Somalia total result 41
+whed_1  |  LOG  Processing South Africa
+whed_1  |  RESULT  South Africa total result 49
+whed_1  |  LOG  Processing South Sudan
+whed_1  |  RESULT  South Sudan total result 5
+whed_1  |  LOG  Processing Spain
+whed_1  |  RESULT  Spain total result 112
+whed_1  |  LOG  Processing Sri Lanka
+whed_1  |  RESULT  Sri Lanka total result 26
+whed_1  |  LOG  Processing Sudan
+whed_1  |  RESULT  Sudan total result 5
+whed_1  |  LOG  Processing Suriname
+whed_1  |  RESULT  Suriname total result 2
+whed_1  |  LOG  Processing Sweden
+whed_1  |  RESULT  Sweden total result 44
+whed_1  |  LOG  Processing Switzerland
+whed_1  |  RESULT  Switzerland total result 33
+whed_1  |  LOG  Processing Syrian Arab Republic
+whed_1  |  RESULT  Syrian Arab Republic total result 22
+whed_1  |  LOG  Processing Tajikistan
+whed_1  |  RESULT  Tajikistan total result 20
+whed_1  |  LOG  Processing Tanzania
+whed_1  |  RESULT  Tanzania total result 36
+whed_1  |  LOG  Processing Thailand
+whed_1  |  RESULT  Thailand total result 146
+whed_1  |  LOG  Processing Timor-Leste
+whed_1  |  RESULT  Timor-Leste total result 10
+whed_1  |  LOG  Processing Togo
+whed_1  |  RESULT  Togo total result 21
+whed_1  |  LOG  Processing Tonga
+whed_1  |  RESULT  Tonga total result 1
+whed_1  |  LOG  Processing Trinidad and Tobago
+whed_1  |  RESULT  Trinidad and Tobago total result 5
+whed_1  |  LOG  Processing Tunisia
+whed_1  |  RESULT  Tunisia total result 41
+whed_1  |  LOG  Processing Turkey
+whed_1  |  RESULT  Turkey total result 172
+whed_1  |  LOG  Processing Turkmenistan
+whed_1  |  RESULT  Turkmenistan total result 17
+whed_1  |  LOG  Processing Uganda
+whed_1  |  RESULT  Uganda total result 40
+whed_1  |  LOG  Processing Ukraine
+whed_1  |  RESULT  Ukraine total result 296
+whed_1  |  LOG  Processing United Arab Emirates
+whed_1  |  RESULT  United Arab Emirates total result 45
+whed_1  |  LOG  Processing United Kingdom
+whed_1  |  RESULT  United Kingdom total result 248
+whed_1  |  LOG  Processing Uruguay
+whed_1  |  RESULT  Uruguay total result 16
+whed_1  |  LOG  Processing Uzbekistan
+whed_1  |  RESULT  Uzbekistan total result 64
+whed_1  |  LOG  Processing Venezuela (Bolivarian Republic of)
+whed_1  |  RESULT  Venezuela (Bolivarian Republic of) total result 77
+whed_1  |  LOG  Processing Vietnam
+whed_1  |  RESULT  Vietnam total result 172
+whed_1  |  LOG  Processing Yemen
+whed_1  |  RESULT  Yemen total result 15
+whed_1  |  LOG  Processing Zambia
+whed_1  |  RESULT  Zambia total result 30
+whed_1  |  LOG  Processing Zimbabwe
+whed_1  |  RESULT  Zimbabwe total result 13
+whed_1  |  LOG  Processing United States of America
+whed_1  |  RESULT  United States of America total result 2117
+whed_1  |  LOG  Processing Canada
+whed_1  |  RESULT  Canada total result 142
+whed_1  |  LOG  Processing Belgium
+whed_1  |  RESULT  Belgium total result 58
+whed_1  | Crawling Time: 638019.683ms
+

@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  whed:
+    build: ./docker_images/whed
+    # image: node:13.5.0-alpine3.11
+    user: "node"
+    working_dir: /home/node/app
+    environment:
+      - NODE_ENV=production
+    ports:
+      - 3000:3000
+    volumes:
+      - ./whed-crawler:/home/node/app
+    command: "npm start"
+    # "npm start"
+    # "npm install"
